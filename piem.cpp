@@ -91,6 +91,8 @@ int main()
 
     }
 
+    cout<<"Thats it . You got your material."<<endl;
+
     getch();
     closegraph();
     return 0;
